@@ -18,6 +18,7 @@ body {
     font-weight: bold;
 }
 .calc-container{
+    width: 305px;
     background-color: rgb(9, 114, 138);
     border-radius: 20px;
     padding: 30px;
